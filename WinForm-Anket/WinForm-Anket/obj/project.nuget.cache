@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+CgRGgj72GtsZNm4XIn1dn9epfJmeCdjCBfz9jOG+dUUY1YmCMFNCtO68iYerO7PEmO6qDEfJCf8tyY92trKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\НР\\source\\repos\\WinForm-Anket\\WinForm-Anket\\WinForm-Anket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\НР\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
